@@ -6,6 +6,8 @@ openai
 # Langchain for blockchain-based language applications
 langchain
 
+psycopg2
+
 # Streamlit for building interactive web apps with Python
 streamlit
 
