@@ -1,0 +1,290 @@
+{
+    "First Year": {
+      "Semester 1": {
+        "Linear Algebra & Calculus": {
+          "Unit 1": "Matrices: Rank of a matrix, Echelon form, consistency of linear System of equations, Linear dependence of vectors, Eigen values, Eigenvectors, Properties of Eigen values, Cayley-Hamilton theorem, Quadratic forms, Reduction of quadratic form to canonical form by linear transformation, Nature of quadratic form.",
+          "Unit 2": "Infinite Series: Definition of Convergence of sequence and series. Series of positive terms –Necessary condition for convergence, Comparison tests, limit form comparison test, D’Alembert’s Ratio test, Raabe’s test, Cauchy’s root test, alternating series, Leibnitz’s rule, absolutely and conditionally convergence.",
+          "Unit 3": "Partial Differentiation and Its Applications: Functions of two or more variables, Partial derivatives, Higher order partial derivatives, Total derivative, Differentiation of implicit functions, Jacobians, Taylor’s expansion of functions of two variables, Maxima and minima of functions of two variables.",
+          "Unit 4": "Vector Differential Calculus: Scalar and vector point functions, vector operator Del, Gradient, Directional derivative, Divergence, Curl, Del applied twice to point functions, Del applied to product of point functions (vector identities). Applications: Irrotational fields and Solenoidal fields.",
+          "Unit 5": "Vector Integral Calculus: Line integral, Surface integral and Volume integral. Green’s theorem in the plane, verifications of Stoke’s theorem (without proof) and Gauss’s divergence theorem (without proof)."
+        },
+        "English": {
+          "Unit 1": "Understanding Communication in English: Introduction, nature and importance of communication; Process of communication; Types of communication - verbal and non-verbal; Barriers to communication; Intrapersonal and interpersonal communication; Understanding Johari Window.",
+          "Unit 2": "Developing Writing Skills I: Paragraph writing – Structure and features of a paragraph; Cohesion and coherence. Rearranging jumbled sentences. Email and Mobile etiquette.",
+          "Unit 3": "Developing Writing Skills II: Précis Writing; Techniques of writing precisely. Letter Writing – Structure, format of a formal letter; Letter of request and the response.",
+          "Unit 4": "Developing Writing Skills III: Report writing – Importance, structure, elements of style of formal reports; Writing a formal report.",
+          "Unit 5": "Developing Reading Skills: The reading process, purpose, different kinds of texts; Reading comprehension; Techniques of comprehension – skimming, scanning, drawing inferences and conclusions."
+        },
+        "Optics and Semiconductor Physics": {
+          "Unit 1": "Wave Optics: Huygens’ principle, Superposition of waves, Interference, Diffraction, and Polarization.",
+          "Unit 2": "Lasers & Holography: Characteristics of lasers, types, applications, and principles of holography.",
+          "Unit 3": "Quantum Mechanics: Wave nature of particles, de-Broglie hypothesis, Schrödinger equations.",
+          "Unit 4": "Band Theory of Solids: Free electron theory, classification of solids based on band theory.",
+          "Unit 5": "Semiconductors: Types, Carrier transport, P-N junction, Hall effect, LEDs, and Solar cells."
+        },
+        "Programming for Problem Solving": {
+          "Unit 1": "Introduction to programming: Basics of programming, variables, data types, and operators.",
+          "Unit 2": "Decision control statements: Conditional and looping structures, functions, recursion.",
+          "Unit 3": "Arrays and Strings: Operations on arrays and strings, sorting and searching algorithms.",
+          "Unit 4": "Pointers and Structures: Memory allocation, usage of pointers, structures and unions.",
+          "Unit 5": "File Handling: Reading and writing files, error handling, and preprocessor directives."
+        }
+      },
+      "Semester 2": {
+        "Differential Equations & Transform Theory": {
+          "Unit 1": "Differential Equations of First Order: Exact Differential Equations, Linear Equations, Orthogonal trajectories.",
+          "Unit 2": "Higher Order Linear Differential Equations: Methods of solutions, applications to circuits.",
+          "Unit 3": "Series Solutions of Differential Equations: Legendre’s equation, Bessel’s function.",
+          "Unit 4": "Fourier Transforms: Fourier integral theorem, transforms, and inverse transforms.",
+          "Unit 5": "Z-Transforms: Definition, properties, and applications in difference equations."
+        },
+        "Industry 4.0": {
+          "Unit 1": "Introduction to Industry 4.0: Digitalization, networked economy, and key enablers.",
+          "Unit 2": "IoT and IIoT: Smart devices, manufacturing, logistics, and predictive analytics.",
+          "Unit 3": "Cyber Physical Systems: Robotics, cyber security, AR/VR, and AI.",
+          "Unit 4": "Data and Collaboration: Knowledge sharing, cloud computing in Industry 4.0.",
+          "Unit 5": "Case Studies and Future Trends: Applications, strategies, and challenges."
+        },
+        "Object Oriented Programming": {
+          "Unit 1": "Introduction to OOP, Classes and Objects, Methods and Constructors.",
+          "Unit 2": "Inheritance and Polymorphism: Method Overloading, Method Overriding, Interfaces.",
+          "Unit 3": "Exception Handling and File Handling: Handling Exceptions, Reading and Writing Files.",
+          "Unit 4": "Advanced Concepts: Multithreading, GUI Programming.",
+          "Unit 5": "Case Studies and Real-world Applications."
+        },
+        "Chemistry": {
+          "Unit 1": "Atomic and molecular structure and Chemical Kinetics.",
+          "Unit 2": "Use of free energy in chemical equilibria, Electrochemistry and Thermodynamics.",
+          "Unit 3": "Stereochemistry and Organic Reactions.",
+          "Unit 4": "Water Chemistry: Treatment and Analysis.",
+          "Unit 5": "Engineering Materials and Drugs: Synthesis and Applications."
+        }
+      }
+    },
+    "Second Year": {
+      "Semester 3": {
+        "Basic Electrical Engineering": {
+          "Unit 1": "DC Circuits: Kirchhoff’s laws, superposition, Thevenin’s and Norton’s theorems, RL and RC circuits.",
+          "Unit 2": "AC Circuits: Sinusoidal waveforms, phasors, power factor, three-phase circuits.",
+          "Unit 3": "Transformers: Principles, EMF equation, efficiency, OC and SC tests.",
+          "Unit 4": "DC and AC Machines: Generators, motors, speed control, applications.",
+          "Unit 5": "Electrical Installations: Wiring, safety, earthing, switchgear components."
+        },
+        "Basic Electronics": {
+          "Unit 1": "Semiconductor Theory: P-N junction diode, rectifiers, filters.",
+          "Unit 2": "Transistors: BJT, FET, amplifiers, regulators, inverters.",
+          "Unit 3": "Feedback Amplifiers & Oscillators: Principles, types, applications.",
+          "Unit 4": "Operational Amplifiers: Ideal and practical characteristics, applications.",
+          "Unit 5": "Data Acquisition: Transducers, industrial devices, CRO applications."
+        },
+        "Data Structures": {
+          "Unit 1": "Introduction: Data types, structures, complexity, sorting algorithms.",
+          "Unit 2": "Linked Lists: Single, doubly, circular, skip list.",
+          "Unit 3": "Stacks and Queues: Implementations and applications.",
+          "Unit 4": "Trees: Binary trees, BST, AVL trees, heaps, tries.",
+          "Unit 5": "Graphs: Representations, traversals, hashing, string matching algorithms."
+        },
+        "Discrete Mathematics": {
+          "Unit 1": "Propositional Calculus: Connectives, logical equivalence, inference rules.",
+          "Unit 2": "Sets & Functions: Venn diagrams, relations, pigeonhole principle.",
+          "Unit 3": "Counting Principles: Combinations, permutations, recurrence relations.",
+          "Unit 4": "Graph Theory: Paths, cycles, trees, spanning trees.",
+          "Unit 5": "Algebraic Structures: Groups, monoids, subgroups, cyclic groups."
+        },
+        "Digital Logic Design": {
+          "Unit 1": "Binary Numbers: Conversions, complements, Boolean algebra.",
+          "Unit 2": "Minimization: Karnaugh maps, tabulation method.",
+          "Unit 3": "Combinational Logic: Decoders, multiplexers, adders.",
+          "Unit 4": "Sequential Circuits: Flip-flops, counters, registers.",
+          "Unit 5": "Memory & Programmable Logic: RAM, ROM, PLAs."
+        },
+        "Fundamentals of Data Science": {
+          "Unit 1": "Introduction: Data collection, security, applications.",
+          "Unit 2": "Pre-Processing: Cleaning, transformation, normalization.",
+          "Unit 3": "Exploratory Analytics: Graphs, frequency tables.",
+          "Unit 4": "Statistical Analysis: Random variables, hypothesis testing.",
+          "Unit 5": "Applications: Recommendation systems, healthcare."
+        }
+      },
+      "Semester 4": {
+        "Mathematical Foundation for Data Science & Security": {
+          "Unit 1": "Curve Fitting: Regression, correlation, least squares.",
+          "Unit 2": "Probability Distributions: Poisson, normal, exponential.",
+          "Unit 3": "Number Theory: GCD, Fermat's theorem, Euler’s function.",
+          "Unit 4": "Cryptography: RSA, security implementations."
+        },
+        "Computer Architecture and Microprocessor": {
+          "Unit 1": "Basic Structure: Bus structures, arithmetic operations.",
+          "Unit 2": "Processing Unit: Instruction execution, 8086 architecture.",
+          "Unit 3": "Assembly Language: Instructions, procedures, macros.",
+          "Unit 4": "I/O Devices: Interfaces, interrupts, pipelines.",
+          "Unit 5": "Memory Systems: Cache, virtual memory, multiprocessors."
+        },
+        "Database Management Systems": {
+          "Unit 1": "Introduction: Data models, E-R model, relational model.",
+          "Unit 2": "SQL: Queries, views, constraints, indexing.",
+          "Unit 3": "Normalization: Functional dependencies, BCNF.",
+          "Unit 4": "Transaction Management: ACID properties, concurrency.",
+          "Unit 5": "Recovery & Security: Deadlocks, recovery mechanisms."
+        },
+        "Internet and Web Technologies": {
+          "Unit 1": "Web Basics: HTTP, URL, MIME, web servers.",
+          "Unit 2": "XHTML & XML: CSS, XML schemas, DTD.",
+          "Unit 3": "JavaScript: DOM, event handling, dynamic content.",
+          "Unit 4": "Django: Models, templates, sessions, databases.",
+          "Unit 5": "Frameworks: Ajax, Bootstrap, Angular, Flask."
+        },
+        "Artificial Intelligence": {
+          "Unit 1": "Introduction: AI fundamentals, intelligent agents.",
+          "Unit 2": "Search Strategies: BFS, DFS, A*, heuristics.",
+          "Unit 3": "Machine Learning: Supervised, unsupervised learning.",
+          "Unit 4": "Expert Systems: Knowledge representation, reasoning.",
+          "Unit 5": "Applications: NLP, robotics, AI ethics."
+        },
+        "Engineering Economics & Accountancy": {
+          "Unit 1": "Basics: Costing, demand analysis, economic principles.",
+          "Unit 2": "Financial Analysis: Balance sheets, profit & loss accounts.",
+          "Unit 3": "Investment Decisions: NPV, IRR, cost-benefit analysis.",
+          "Unit 4": "Accounting Systems: Budgeting, depreciation.",
+          "Unit 5": "Business Models: Market strategies, taxation."
+        }
+      }
+    },
+    "Third Year": {
+      "Semester 5": {
+        "Design and Analysis of Algorithms": {
+          "Unit 1": "Introduction to Algorithms, Analysis of Algorithm, Divide and Conquer Strategy",
+          "Unit 2": "Greedy Algorithms, Huffman Coding, Dynamic Programming",
+          "Unit 3": "Backtracking, Branch and Bound Techniques",
+          "Unit 4": "Graph Algorithms - DFS, BFS, Shortest Path, Minimum Spanning Tree",
+          "Unit 5": "Theory of NP-Completeness, Standard NP-Complete Problems"
+        },
+        "Operating Systems": {
+          "Unit 1": "Operating System Concepts, System Calls, OS Design and Implementation",
+          "Unit 2": "Processes and Threads, Scheduling, Synchronization, Deadlocks",
+          "Unit 3": "Memory Management, Virtual Memory, File Systems",
+          "Unit 4": "OS Security, Threats, Malware, Protection Mechanisms",
+          "Unit 5": "Unix/Linux OS Case Study, File Management, Process Management"
+        },
+        "Software Engineering": {
+          "Unit 1": "Software Engineering Practice, Process Models",
+          "Unit 2": "Agile Development, Requirement Engineering, SRS",
+          "Unit 3": "Software Modeling, Estimation Techniques",
+          "Unit 4": "Software Design Concepts, Architecture, Coding Guidelines",
+          "Unit 5": "Software Testing, Quality Assurance, Review Techniques"
+        },
+        "Machine Learning": {
+          "Unit 1": "Introduction to ML, Learning Types, Statistical Learning Concepts",
+          "Unit 2": "Feature Selection, Regression Models",
+          "Unit 3": "Classification Algorithms, Decision Trees, Ensemble Learning",
+          "Unit 4": "SVM, Clustering Techniques",
+          "Unit 5": "ML Architectures, Hyperparameter Tuning, Model Deployment"
+        }
+      },
+      "Semester 6": {
+        "Data Communication and Computer Networks": {
+          "Unit 1": "Network Models, OSI and TCP/IP Architecture",
+          "Unit 2": "Data Link Layer, MAC Protocols, Switching",
+          "Unit 3": "Network Layer, Routing Algorithms",
+          "Unit 4": "Transport Layer, Congestion Control, QoS",
+          "Unit 5": "Application Layer Protocols, Security"
+        },
+        "Deep Learning for Computer Vision": {
+          "Unit 1": "Introduction to Neural Networks and Deep Learning",
+          "Unit 2": "Convolutional Neural Networks (CNNs)",
+          "Unit 3": "Object Detection, Image Segmentation",
+          "Unit 4": "Recurrent Neural Networks (RNNs) for Image Processing",
+          "Unit 5": "GANs, Transfer Learning, Deployment"
+        },
+        "Theory of Computation & Compilers": {
+          "Unit 1": "Finite Automata, Regular Expressions, Grammars",
+          "Unit 2": "Pushdown Automata, Context-Free Languages",
+          "Unit 3": "Turing Machines, Undecidability",
+          "Unit 4": "Compiler Design, Lexical Analysis",
+          "Unit 5": "Parsing Techniques, Optimization, Code Generation"
+        },
+        "Universal Human Values-II: Understanding Harmony": {
+          "Unit 1": "Holistic Development and Values",
+          "Unit 2": "Harmony in the Self",
+          "Unit 3": "Harmony in the Family and Society",
+          "Unit 4": "Harmony in Nature and Existence",
+          "Unit 5": "Holistic Human Order"
+        }
+      }
+    },
+    "Final Year": {
+      "7th Semester": {
+        "subjects": {
+          "Cloud Technologies": {
+            "course_code": "20CAC08",
+            "units": [
+              "Introduction to Cloud Computing",
+              "Cloud Computing Architecture",
+              "Cloud Service Models",
+              "Cloud Security and Compliance",
+              "Case Studies and Future Trends"
+            ]
+          },
+          "Professional Elective-IV": {
+            "units": [
+              "Various Elective Topics"
+            ]
+          },
+          "Open Elective-III": {
+            "units": [
+              "Various Open Elective Topics"
+            ]
+          },
+          "Indian Constitution and Fundamental Principles": {
+            "course_code": "20EGM01",
+            "units": [
+              "Introduction to Indian Constitution",
+              "Fundamental Rights and Duties",
+              "Directive Principles of State Policy",
+              "Judiciary and Legal System in India",
+              "Role of Citizens in Democracy"
+            ]
+          },
+          "Indian Traditional Knowledge": {
+            "course_code": "20EGM02",
+            "units": [
+              "Concept and Evolution of Indian Traditional Knowledge",
+              "Indian Knowledge Systems",
+              "Traditional Medicine and Health",
+              "Traditional Science and Technology",
+              "Impact of Traditional Knowledge on Modern Science"
+            ]
+          }
+        }
+      },
+      "8th Semester": {
+        "subjects": {
+          "Professional Elective-V": {
+            "units": [
+              "Various Elective Topics"
+            ]
+          },
+          "Environmental Science": {
+            "course_code": "20CEM01",
+            "units": [
+              "Introduction to Environmental Science",
+              "Natural Resources and Ecosystems",
+              "Environmental Pollution and Control",
+              "Sustainability and Renewable Energy",
+              "Environmental Laws and Policies"
+            ]
+          },
+          "Gender Sensitization": {
+            "course_code": "20EGM04",
+            "units": [
+              "Understanding Gender and Society",
+              "Gender Roles and Stereotypes",
+              "Gender and Law",
+              "Women Empowerment and Rights",
+              "Gender Sensitization in Education and Workplace"
+            ]
+          }
+        }
+      }
+    }
+  }
